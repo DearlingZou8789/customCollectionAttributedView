@@ -1,0 +1,2 @@
+# customCollectionAttributedView
+Custom UICollectionLayoutAttributed
